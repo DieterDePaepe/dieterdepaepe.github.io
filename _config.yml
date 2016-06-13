@@ -12,6 +12,18 @@ description: > # this means to ignore newlines until "baseurl:"
   Dieter De Paepe is a computer scientist working as researcher at iMinds.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://dieterdepaepe.github.io" # the base hostname & protocol for your site
+collections: 
+#- publications
+  publications:
+    output: true
+    permalink: /publications/:title/
+defaults:
+  -
+    scope:
+      path: ""
+      type: "publications"
+    values:
+      layout: "publication"
 twitter_username: DieterDePaepe
 github_username:  dieterdepaepe
 linkedin_username: dieterdepaepe

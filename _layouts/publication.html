@@ -1,0 +1,16 @@
+---
+layout: default
+---
+<h1>{{ page.bibtex.title }}</h1>
+{% capture authors_ %}
+{% for author in page.bibtex.authors %}
+    {{author | split: "," | reverse | join(" ")}}{% if forloop.rindex0 >= 2 %}, {% elsif forloop.rindex0 == 1 %} and {% endif %}
+{% endfor %}
+{% endcapture %}
+
+written by {{ authors_ }} 
+<p>
+    {{ page.abstract }}
+</p>
+
+{{content}}

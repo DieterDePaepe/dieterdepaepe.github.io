@@ -1,3 +1,10 @@
+# The Public Sector DNA on the web: semantically marking up government portals
+
+> Incomplete
+
+Presented at [SDSVoc](https://www.w3.org/2016/11/sdsvoc/)
+[Paper](https://www.w3.org/2016/11/sdsvoc/SDSVoc16_paper_1) [slides](https://www.w3.org/2016/11/sdsvoc/raf)
+
 # OSLO: Open Standards for Linked Organizations
 
 > Best Research Paper Award

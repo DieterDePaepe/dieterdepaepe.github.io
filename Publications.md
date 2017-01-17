@@ -14,9 +14,13 @@ Presented at [SDSVoc](https://www.w3.org/2016/11/sdsvoc/)
 @inproceedings{buyle_egose_2016,
   author = {Buyle, Raf and De Vocht, Laurens and Van Compernolle, Mathias and De Paepe, Dieter and Verborgh, Ruben and Vanlishout, Ziggy and De Vidts, Bj\"orn and Mechant, Peter and Mannens, Erik},
   title = {{OSLO: Open Standards for Linked Organizations}},
-  booktitle = {Proceedings of the International Conference on Electronic Governance and Open Society},
+  booktitle = {Proceedings of the International Conference on Electronic Governance and Open Society: Challenges in Eurasia},
   year = 2016,
   month = nov,
+  pages = {126--134},
+  isbn = {978-1-4503-4859-1},
+  doi = {10.1145/3014087.3014096},
+  url = {https://dl.acm.org/authorize?N20629},
 }
 ```
 

@@ -1,7 +1,15 @@
 # The Public Sector DNA on the web: semantically marking up government portals
 
-> Incomplete
-
+```
+@inproceedings{buyle_sdsvoc_2016,
+  author = {Buyle, Raf and De Vocht, Laurens and De Paepe, Dieter and Van Compernolle, Mathias and Nolf, Geraldine and Vanlishout, Ziggy and De Vidts, Bj\"orn and Mannens, Erik and Mechant, Peter},
+  title = {The Public Sector {DNA} on the web: semantically marking up government portals},
+  booktitle = {Proceedings of the Workshop on Smart Descriptions \& Smarter Vocabularies},
+  year = 2016,
+  month = nov,
+  url = {https://www.w3.org/2016/11/sdsvoc/SDSVoc16_paper_1},
+}
+```
 Presented at [SDSVoc](https://www.w3.org/2016/11/sdsvoc/)
 [Paper](https://www.w3.org/2016/11/sdsvoc/SDSVoc16_paper_1) [slides](https://www.w3.org/2016/11/sdsvoc/raf)
 

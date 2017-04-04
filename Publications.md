@@ -1,3 +1,17 @@
+# Constraints for a large-scale ITS data-sharing system: a use case in the city of Ghent
+
+> Incomplete
+
+```
+@inproceedings{colpaert_its_2017,
+  author = {Colpaert, Pieter and Van der Perre, Peter and De Paepe, Dieter and Thoeye, Thimo and Verborgh, Ruben and Mannens, Erik},
+  title = {Constraints for a large-scale ITS data-sharing system: a use case in the city of Ghent},
+  booktitle = {Proceedings of the 12th ITS European Congress},
+  year = 2017,
+  month = jun,
+}
+```
+
 # The Public Sector DNA on the web: semantically marking up government portals
 
 ```
@@ -16,7 +30,6 @@ Presented at [SDSVoc](https://www.w3.org/2016/11/sdsvoc/)
 # OSLO: Open Standards for Linked Organizations
 
 > Best Research Paper Award
-> Incomplete
 
 ```
 @inproceedings{buyle_egose_2016,

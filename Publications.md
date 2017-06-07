@@ -12,6 +12,24 @@
 }
 ```
 
+# Geodata interoperability and harmonization in transport: a case study of open transport net
+
+```
+@Article{Veeckman2017,
+  author="Veeckman, Carina and Jedli{\v{c}}ka, Karel and De Paepe, Dieter and Kozhukh, Dmitrii and Kafka, {\v{S}}t{\v{e}}p{\'a}n and Colpaert, Pieter and {\v{C}}erba, Otakar",
+  title="Geodata interoperability and harmonization in transport: a case study of open transport net",
+  journal="Open Geospatial Data, Software and Standards",
+  year="2017",
+  volume="2",
+  number="1",
+  pages="3",
+  abstract="In Europe, a lot of data portals are emerging on the local, national or interregional levels. These portals have a common objective to share data and information to its citizens and businesses, and to make information more accessible. However, studies showed that people are still facing difficulties in finding and reusing public sector information. To facilitate data reuse, the information should be available in a machine-readable format and agreed metadata standard, so that interoperability and discoverability could be enhanced.",
+  issn="2363-7501",
+  doi="10.1186/s40965-017-0015-6",
+  url="http://dx.doi.org/10.1186/s40965-017-0015-6"
+}
+```
+
 # The Public Sector DNA on the web: semantically marking up government portals
 
 ```

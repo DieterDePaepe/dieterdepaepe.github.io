@@ -1,3 +1,17 @@
+# Automated UML-Based Ontology Generation in OSLO²
+
+> Incomplete
+
+```
+@inproceedings{depaepe_eswc_demo_2017,
+  author = {De Paepe, Dieter and Thijs, Geert and Verborgh, Ruben and Mannens, Erik and Buyle, Raf},
+  title = {Automated {UML}-Based Ontology Generation in {OSLO²}},
+  booktitle = {Proceedings of the 14th ESWC: Posters and Demos},
+  year = 2017,
+  month = may,
+}
+```
+
 # Constraints for a large-scale ITS data-sharing system: a use case in the city of Ghent
 
 > Incomplete

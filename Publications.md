@@ -1,14 +1,23 @@
-# Automated UML-Based Ontology Generation in OSLO²
+# Semantics in the wild: a digital assitant for Flemish citizens
 
 > Incomplete
+
+# Automated UML-Based Ontology Generation in OSLO²
 
 ```
 @inproceedings{depaepe_eswc_demo_2017,
   author = {De Paepe, Dieter and Thijs, Geert and Verborgh, Ruben and Mannens, Erik and Buyle, Raf},
   title = {Automated {UML}-Based Ontology Generation in {OSLO²}},
   booktitle = {Proceedings of the 14th ESWC: Posters and Demos},
+  editor = {Blomqvist, Eva and Hose, Katja and Paulheim, Heiko and {\L}awrynowicz, Agnieszka and Ciravegna, Fabio and Hartig, Olaf},
+  series = {Lecture Notes in Computer Science},
+  volume = 10577,
+  publisher = {Springer},
+  pages = {93--97},
+  isbn = {978-3-319-70407-4},
   year = 2017,
   month = may,
+  doi = {10.1007/978-3-319-70407-4_18},
 }
 ```
 
@@ -23,6 +32,7 @@
   booktitle = {Proceedings of the 12th ITS European Congress},
   year = 2017,
   month = jun,
+  url = {https://pietercolpaert.be/papers/its-eu2017/paper.pdf},
 }
 ```
 

@@ -1,7 +1,7 @@
 # Eliminating Noise in the Matrix Profile
 
 ```
-@inproceedings{depaepe_icpram_2018,
+@inproceedings{depaepe_icpram_2019,
   title={Eliminating Noise in the Matrix Profile},
   author={De Paepe, Dieter and Janssens, Olivier and Van Hoecke, Sofie},
   booktitle={Proceedings of the 8th International Conference on Pattern Recognition Applications and Methods},

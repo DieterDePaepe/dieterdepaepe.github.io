@@ -1,6 +1,65 @@
+# Eliminating Noise in the Matrix Profile
+
+```
+@inproceedings{depaepe_icpram_2018,
+  title={Eliminating Noise in the Matrix Profile},
+  author={De Paepe, Dieter and Janssens, Olivier and Van Hoecke, Sofie},
+  booktitle={Proceedings of the 8th International Conference on Pattern Recognition Applications and Methods},
+  pages={83--93},
+  year={2019},
+  month={feb},
+  isbn={978-989-758-351-3},
+  issn={2184-4313}
+}
+```
+
+# Raising interoperability among base registries: The evolution of the Linked Base Registry for adresses in Flanders
+
+```
+@article{buyle_semantics_2018,
+  title={Raising interoperability among base registries: The evolution of the Linked Base Registry for addresses in Flanders},
+  author={Buyle, Raf and Vanlishout, Ziggy and Coetzee, Serena and De Paepe, Dieter and Van Compernolle, Mathias and Thijs, Geert and Van Nuffelen, Bert and De Vocht, Laurens and Mechant, Peter and De Vidts, Bj{\"o}rn and others},
+  journal={Journal of Web Semantics},
+  year={2018},
+  publisher={Elsevier}
+}
+```
+
 # Semantics in the wild: a digital assitant for Flemish citizens
 
-> Incomplete
+```
+@inproceedings{buyle_egov_2018,
+  title={Semantics in the wild: a digital assistant for Flemish citizens},
+  author={Buyle, Raf and Van Compernolle, Mathias and De Paepe, Dieter and Scheerlinck, Jens and Mechant, Peter and Mannens, Erik and Vanlishout, Ziggy},
+  booktitle={Proceedings of the 11th International Conference on Theory and Practice of Electronic Governance},
+  pages={1--6},
+  year={2018},
+  organization={ACM}
+}
+```
+
+# Towards adaptive anomaly detection and root cause analysis by automated extraction of knowledge from risk analyses
+```
+@inproceedings{steenwinckel_ssn_workshop_2018,
+  title={Towards adaptive anomaly detection and root cause analysis by automated extraction of knowledge from risk analyses},
+  author={Steenwinckel, Bram and Heyvaert, Pieter and De Paepe, Dieter and Janssens, Olivier and Vanden Hautte, Sander and Dimou, Anastasia and De Turck, Filip and Van Hoecke, Sofie and Ongenae, Femke},
+  booktitle={9th International Semantic Sensor Networks workshop, co-located with 17th International Semantic Web conference (ISWC 2018)},
+  volume={2213},
+  pages={17--31},
+  year={2018}
+}
+```
+
+# Automated extraction of rules and knowledge from risk analyses: a ventilation unit demo
+```
+@inproceedings{steenwinckel_ssn_2018,
+  title={Automated extraction of rules and knowledge from risk analyses: a ventilation unit demo},
+  author={Steenwinckel, Bram and Heyvaert, Pieter and De Paepe, Dieter and Janssens, Olivier and Vanden Hautte, Sander and Dimou, Anastasia and De Turck, Filip and Van Hoecke, Sofie and Ongenae, Femke},
+  booktitle={ISWC2018, the 17th International Semantic Web Conference},
+  pages={1--4},
+  year={2018}
+}
+```
 
 # Automated UML-Based Ontology Generation in OSLO²
 
@@ -22,8 +81,6 @@
 ```
 
 # Constraints for a large-scale ITS data-sharing system: a use case in the city of Ghent
-
-> Incomplete
 
 ```
 @inproceedings{colpaert_its_2017,

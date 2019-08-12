@@ -28,7 +28,7 @@ collections:
 # Can either use page name "aboutme" or full url
 navbar-links:
   About Me: "aboutme"
-  Publications: "publications"
+  Publications: "my-publications"
 #  Resources:
 #    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
 #    - Learn markdown: "http://www.markdowntutorial.com/"

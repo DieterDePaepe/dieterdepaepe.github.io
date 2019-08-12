@@ -20,7 +20,7 @@ description: A virtual proof that I'm awesome
 
 collections:
   publications:
-    output: true
+    output: false
 
 # --- Navigation bar options --- #
 

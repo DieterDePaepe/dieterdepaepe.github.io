@@ -1,0 +1,27 @@
+---
+title: >
+  Automated extraction of rules and knowledge from risk analyses: a ventilation unit demo
+key: SteenwinckelISWC_2018
+authors: Bram Steenwinckel, Pieter Heyvaert, Dieter De Paepe, Olivier Janssens, Sander Vanden Hautte, Anastasia Dimou, Filip De Turck, Sofie Van Hoecke and Femke Ongenae
+year: 2018
+publisherartefact: >
+  Proceedings of the ISWC 2018 posters & demonstrations, industry and blue sky ideas tracks, co-located with 17th international Semantic Web conference (ISWC 2018)
+abstract: >
+  Assessing upfront the causes and effects of failures is an important aspect of system manufacturing. Nowadays, these analyses are performed by a large number of experts. To enable semantic unification and easy operationalization of these risk analyses, this paper demonstrates an approach to automatically map the captured information into an ontology and accompanying rules. The approach is demonstrated with a use case to identify anomalies and their causes within a ventilation unit.
+fulltext:
+  http://ceur-ws.org/Vol-2180/paper-63.pdf
+---
+
+@inproceedings{SteenwinckelISWC_2018,
+  author       = {Steenwinckel, Bram and Heyvaert, Pieter and De Paepe, Dieter and Janssens, Olivier and Vanden Hautte, Sander and Dimou, Anastasia and De Turck, Filip and Van Hoecke, Sofie and Ongenae, Femke},
+  booktitle    = {Proceedings of the ISWC 2018 posters & demonstrations, industry and blue sky ideas tracks, co-located with 17th international Semantic Web conference (ISWC 2018)},
+  editor       = {van Erp, Marieke and Atre, Medha and Lopez, Vanessa and Srinivas, Kavitha and Fortuna, Carolina},
+  issn         = {1613-0073},
+  language     = {eng},
+  location     = {Monterey, CA, USA},
+  pages        = {4},
+  title        = {Automated extraction of rules and knowledge from risk analyses : a ventilation unit demo},
+  url          = {http://ceur-ws.org/Vol-2180/paper-63.pdf},
+  volume       = {2180},
+  year         = {2018},
+}

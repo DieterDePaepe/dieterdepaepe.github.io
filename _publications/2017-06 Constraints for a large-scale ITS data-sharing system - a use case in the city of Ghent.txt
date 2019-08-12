@@ -1,0 +1,22 @@
+---
+title: >
+  Constraints for a large-scale ITS data-sharing system: a use case in the city of Ghent
+key: colpaert_its_2017
+authors: Pieter Colpaert, Peter Van der Perre, Dieter De Paepe, Thimo Thoeye, Ruben Verborgh and Erik Mannens
+year: 2017
+publisherartefact: >
+  Proceedings of the 12th ITS European Congress
+abstract: >
+  Thanks to architectural constraints adopted by its stakeholders, the World Wide Web was able to scale up to its current size. To realize the ITS directive, which stimulates sharing data on large scale between different parties across Europe, a large-scale information system is needed as well. We discuss three constraints which lie at the basis of the success of the Web, and apply these to transport data publishing: stateless interaction, cacheability and a uniform interface. The city of Ghent implemented these constraints for publishing the dynamic capacity of the parking sites. The information system, allowing federated queries from the browser, achieves a good user perceived performance, a good network efficiency, achieves a scalable server infrastructure, and enables a simple to reuse dataset. To persist such a transport data information system, still a well-maintained Linked Data vocabulary is needed. We propose to add these URIs into the DATEX2 specification.
+fulltext:
+  https://pietercolpaert.be/papers/its-eu2017/paper.pdf
+---
+
+@inproceedings{colpaert_its_2017,
+  author = {Colpaert, Pieter and Van der Perre, Peter and De Paepe, Dieter and Thoeye, Thimo and Verborgh, Ruben and Mannens, Erik},
+  title = {Constraints for a large-scale ITS data-sharing system: a use case in the city of Ghent},
+  booktitle = {Proceedings of the 12th ITS European Congress},
+  year = 2017,
+  month = jun,
+  url = {https://pietercolpaert.be/papers/its-eu2017/paper.pdf},
+}

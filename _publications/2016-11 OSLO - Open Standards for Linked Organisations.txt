@@ -1,0 +1,24 @@
+---
+title: OSLO - Open Standards for Linked Organisations
+key: buyle_egose_2016
+authors: Raf Buyle, Laurens De Vocht, Mathias Van Compernolle, Dieter De Paepe, Ruben Verborgh, Ziggy Vanlishout, Björn De Vidts, Peter Mechant and Erik Mannens
+year: 2016
+publisherartefact: >
+  Proceedings of the International Conference on Electronic Governance and Open Society: Challenges in Eurasia
+abstract: >
+  Each government level uses their own different information system. At the same time citizens expect a user-centric approach and instant access to their data or to open government data. Therefore the applications at various government levels need to be interoperable in support of the ‘once only-principle’: data is inputted and registered only once and then reused. Given government budget constraints and it being an expensive and no trivial task to (re)model, translate and transform data over and over, public administrations need to reduce interoperability costs. This is achieved by semantically aligning the information between the different information systems of each government level. Semantically interoperable systems facilitate citizen-centered e-government services. This paper illustrates how the OSLO program paved the way bottom-up from a broad basis of stakeholders towards a government-endorsed strategy. OSLO applied a more generic process and methodology and provide practical insights on how to overcome the encountered hurdles: political support and adoption; reaching semantic agreement. The lessons learned in the region of Flanders, Belgium can speed-up the process in other countries that face the complexity of integrating information intensive processes between different applications, administrations and government levels.
+fulltext:
+  https://dl.acm.org/authorize?N20629
+---
+
+@inproceedings{buyle_egose_2016,
+  author = {Buyle, Raf and De Vocht, Laurens and Van Compernolle, Mathias and De Paepe, Dieter and Verborgh, Ruben and Vanlishout, Ziggy and De Vidts, Bj\"orn and Mechant, Peter and Mannens, Erik},
+  title = {OSLO: Open Standards for Linked Organizations},
+  booktitle = {Proceedings of the International Conference on Electronic Governance and Open Society: Challenges in Eurasia},
+  year = 2016,
+  month = nov,
+  pages = {126--134},
+  isbn = {978-1-4503-4859-1},
+  doi = {10.1145/3014087.3014096},
+  url = {https://dl.acm.org/authorize?N20629},
+}

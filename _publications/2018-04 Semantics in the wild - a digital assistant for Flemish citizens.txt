@@ -1,0 +1,25 @@
+---
+title: >
+  Semantics in the wild : a digital assistant for Flemish citizens
+key: BuyleICEGOV_2018
+authors: Raf Buyle, Mathias Van Compernolle, Dieter De Paepe, Jens Scheerlinck, Peter Mechant, Erik Mannens and Ziggy Vanlishout
+year: 2018
+publisherartefact: >
+  Proceedings of the 11th International Conference on Theory and Practice of Electronic Governance
+abstract: >
+  Public service fragmentation across more than 800 digital channels of government administrations in the region of Flanders (Belgium), causes administrative burden and frustrations, as citizens expect a coherent service. Given the autonomy of the various entities, the fragmentation of information and budget constraints, it is not feasible to rewire the entire e-gov ecosystem to a single portal. Therefore, the Flemish Government is building a smart digital assistant, which supports citizens on the governmental portals, by integrating status information of various transactions. This paper outlines our ongoing research on a method for raising semantic interoperability between different information systems and actors. In this approach, semantic agreements are maintained and implemented end-to-end using the design principles of Linked Data. The lessons learned can speed-up the process in other countries that face the complexity of integrating e-government portals.
+fulltext:
+  http://dx.doi.org/10.1145/3209415.3209421
+---
+
+@inproceedings{BuyleICEGOV_2018,
+  author       = {Buyle, Raf and Van Compernolle, Mathias and De Paepe, Dieter and Scheerlinck, Jens and Mechant, Peter and Mannens, Erik and Vanlishout, Ziggy},
+  booktitle = {Proceedings of the 11th International Conference on Theory and Practice of Electronic Governance},
+  isbn         = {9781450354219},
+  language     = {eng},
+  location     = {Galway, Iceland},
+  pages        = {1--6},
+  title        = {Semantics in the wild : a digital assistant for Flemish citizens},
+  url          = {http://dx.doi.org/10.1145/3209415.3209421},
+  year         = {2018},
+}

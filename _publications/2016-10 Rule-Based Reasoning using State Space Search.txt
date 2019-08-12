@@ -1,0 +1,25 @@
+---
+title: Rule-Based Reasoning using State Space Search
+key: depaepe_iswc_poster_2016
+authors: Dieter De Paepe, Ruben Verborgh and Erik Mannens
+year: 2016
+publisherartefact: >
+  Proceedings of the 15th International Semantic Web Conference: Posters and Demos
+abstract: >
+  Semantic Web reasoners are powerful tools that allow the extraction of implicit information from RDF data. This information is reachable through the definition of ontologies and/or rules provided to the reasoner. To achieve this, various algorithms are used by different reasoners. In this paper, we explain how state space search can be applied to perform backward-chaining rule-based reasoning. State space search is an approach used in the Artificial Intelligence domain that solves problems by modeling them as a graph and searching (using diverse algorithms) for solutions within this graph. State space search offers inherent proof generation and the ability to plug in different search algorithms to determine the characteristics of the reasoner such as: speed, memory or ensuring shortest proof generation.
+fulltext: >
+  http://ceur-ws.org/Vol-1690/paper55.pdf
+---
+
+@inproceedings{depaepe_iswc_poster_2016,
+  author = {De Paepe, Dieter and Verborgh, Ruben and Mannens, Erik},
+  title = {Rule-Based Reasoning using State Space Search},
+  booktitle = {Proceedings of the 15th International Semantic Web Conference: Posters and Demos},
+  year = 2016,
+  month = oct,
+  series = {CEUR Workshop Proceedings},
+  volume = 1690,
+  issn = {1613-0073},
+  editor = {Kawamura, Takahiro and Paulheim, Heiko},
+  url = {http://ceur-ws.org/Vol-1690/paper55.pdf},
+}

@@ -1,0 +1,26 @@
+---
+title: >
+  Towards adaptive anomaly detection and root cause analysis by automated extraction of knowledge from risk analyses
+key: SteenwinckelISWC_2018_2
+authors: Bram Steenwinckel, Pieter Heyvaert, Dieter De Paepe, Olivier Janssens, Sander Vanden Hautte, Anastasia Dimou, Filip De Turck, Sofie Van Hoecke and Femke Ongenae
+year: 2018
+publisherartefact: >
+  Proceedings of the 9th international semantic sensor networks workshop, co-located with 17th international semantic web conference (ISWC 2018)
+abstract: >
+  Sensors inside internet-connected devices analyse the environment and monitor possible unwanted behaviour. Current risk analysis tools, such as Fault Tree Analysis (FTA) and Failure Mode and Effect Analysis (FMEA), provide prior information on these malfunctions. Many people are involved in this risk analyses process, resulting in disambiguations and incompleteness. Ontologies could resolve this issue by providing a uniform structure for the failures and their causes. However, domain experts are not always ontology experts, resulting in a lot of human effort to keep the ontologies up to date. In this paper, automated mappings from the FMEA data to a domain-specific ontology and the generation of rules from a constructed FTA were researched to annotate and reason on sensor observations semantically. The approach is demonstrated with a use case to investigate the possible failures and causes of reduced passenger comfort levels inside a train.
+fulltext:
+  http://ceur-ws.org/Vol-2213/paper2.pdf
+---
+
+@inproceedings{SteenwinckelISWC_2018_2,
+  author       = {Steenwinckel, Bram and Heyvaert, Pieter and De Paepe, Dieter and Janssens, Olivier and Vanden Hautte, Sander and Dimou, Anastasia and De Turck, Filip and Van Hoecke, Sofie and Ongenae, Femke},
+  booktitle    = {Proceedings of the 9th international semantic sensor networks workshop, co-located with 17th international semantic web conference (ISWC 2018)},
+  issn         = {1613-0073},
+  language     = {eng},
+  location     = {Monterey, CA, USA},
+  pages        = {17--31},
+  title        = {Towards adaptive anomaly detection and root cause analysis by automated extraction of knowledge from risk analyses},
+  url          = {http://ceur-ws.org/Vol-2213/paper2.pdf},
+  volume       = {2213},
+  year         = {2018},
+}

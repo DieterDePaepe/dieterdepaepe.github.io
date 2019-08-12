@@ -1,0 +1,24 @@
+---
+title: >
+  The Public Sector DNA on the web: semantically marking up government portals
+key: buyle_sdsvoc_2016
+authors: Raf Buyle, Laurens De Vocht, Dieter De Paepe, Mathias Van Compernolle, Geraldine Nolf, Ziggy Vanlishout, Björn De Vidts, Erik Mannens and Peter Mechant
+year: 2016
+publisherartefact: >
+  Proceedings of the Workshop on Smart Descriptions & Smarter Vocabularies
+abstract: >
+  Base registries contain core public sector data. They are fundamental building blocks in supporting interaction between government and private sector. To enable the private sector to discover, adopt and use information from base registries (e.g. addresses of organizations and public services), the government needs a distribution model. Therefore, the Flemish government is working on a technical strategy to add markup to government portals to embed their ‘DNA’, semantic annotations, on third-party private sector platforms, to dissolve the existing governmental silos and to provide better public services. In this context, this paper reviews a potential strategy to ‘open up’ base registries that combines the best of both worlds: bridging between the schema.org and the European ISA Core vocabularies.
+fulltext:
+  https://www.w3.org/2016/11/sdsvoc/SDSVoc16_paper_1
+presentation:
+  https://www.w3.org/2016/11/sdsvoc/raf
+---
+
+@inproceedings{buyle_sdsvoc_2016,
+  author = {Buyle, Raf and De Vocht, Laurens and De Paepe, Dieter and Van Compernolle, Mathias and Nolf, Geraldine and Vanlishout, Ziggy and De Vidts, Bj\"orn and Mannens, Erik and Mechant, Peter},
+  title = {The Public Sector {DNA} on the web: semantically marking up government portals},
+  booktitle = {Proceedings of the Workshop on Smart Descriptions \& Smarter Vocabularies},
+  year = 2016,
+  month = nov,
+  url = {https://www.w3.org/2016/11/sdsvoc/SDSVoc16_paper_1},
+}

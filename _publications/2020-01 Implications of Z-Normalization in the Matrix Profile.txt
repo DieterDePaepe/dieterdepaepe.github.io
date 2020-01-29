@@ -1,0 +1,30 @@
+---
+title: >
+  Implications of Z-Normalization in the Matrix Profile
+key: depaepe_znorm_2020
+authors: Dieter De Paepe, Diego Nieves Avendano and Sofie Van Hoecke
+year: 2020
+publisherartefact: >
+  Pattern Recognition Applications and Methods
+abstract: >
+  Companies are increasingly measuring their products and services, resulting in a rising amount of available time series data, making techniques to extract usable information needed. One state-of-the-art technique for time series is the Matrix Profile, which has been used for various applications including motif/discord discovery, visualizations and semantic segmentation. Internally, the Matrix Profile utilizes the z-normalized Euclidean distance to compare the shape of subsequences between two series. However, when comparing subsequences that are relatively flat and contain noise, the resulting distance is high despite the visual similarity of these subsequences. This property violates some of the assumptions made by Matrix Profile based techniques, resulting in worse performance when series contain flat and noisy subsequences. By studying the properties of the z-normalized Euclidean distance, we derived a method to eliminate this effect requiring only an estimate of the standard deviation of the noise. In this paper we describe various practical properties of the z-normalized Euclidean distance and show how these can be used to correct the performance of Matrix Profile related techniques. We demonstrate our techniques using anomaly detection using a Yahoo! Webscope anomaly dataset, semantic segmentation on the PAMAP2 activity dataset and for data visualization on a UCI activity dataset, all containing real-world data, and obtain overall better results after applying our technique. Our technique is a straightforward extension of the distance calculation in the Matrix Profile and will benefit any derived technique dealing with time series containing flat and noisy subsequences.
+fulltext:
+  https://doi.org/10.1007/978-3-030-40014-9_5
+---
+
+@InProceedings{depaepe_znorm_2020,
+author="De Paepe, Dieter
+and Avendano, Diego Nieves
+and Van Hoecke, Sofie",
+editor="De Marsico, Maria
+and Sanniti di Baja, Gabriella
+and Fred, Ana",
+title="Implications of Z-Normalization in the Matrix Profile",
+booktitle="Pattern Recognition Applications and Methods",
+year="2020",
+publisher="Springer International Publishing",
+address="Cham",
+pages="95--118",
+abstract="Companies are increasingly measuring their products and services, resulting in a rising amount of available time series data, making techniques to extract usable information needed. One state-of-the-art technique for time series is the Matrix Profile, which has been used for various applications including motif/discord discovery, visualizations and semantic segmentation. Internally, the Matrix Profile utilizes the z-normalized Euclidean distance to compare the shape of subsequences between two series. However, when comparing subsequences that are relatively flat and contain noise, the resulting distance is high despite the visual similarity of these subsequences. This property violates some of the assumptions made by Matrix Profile based techniques, resulting in worse performance when series contain flat and noisy subsequences. By studying the properties of the z-normalized Euclidean distance, we derived a method to eliminate this effect requiring only an estimate of the standard deviation of the noise. In this paper we describe various practical properties of the z-normalized Euclidean distance and show how these can be used to correct the performance of Matrix Profile related techniques. We demonstrate our techniques using anomaly detection using a Yahoo! Webscope anomaly dataset, semantic segmentation on the PAMAP2 activity dataset and for data visualization on a UCI activity dataset, all containing real-world data, and obtain overall better results after applying our technique. Our technique is a straightforward extension of the distance calculation in the Matrix Profile and will benefit any derived technique dealing with time series containing flat and noisy subsequences.",
+isbn="978-3-030-40014-9"
+}

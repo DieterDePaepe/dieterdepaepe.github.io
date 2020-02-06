@@ -10,6 +10,8 @@ abstract: >
   As companies are increasingly measuring their products and services, the amount of time series data is rising and techniques to extract usable information are needed. One recently developed data mining technique for time series is the Matrix Profile. It consists of the smallest z-normalized Euclidean distance of each subsequence of a time series to all other subsequences of another series. It has been used for motif and discord discovery, for segmentation and as building block for other techniques. One side effect of the z-normalization used is that small fluctuations on flat signals are upscaled. This can lead to high and unintuitive distances for very similar subsequences from noisy data. We determined an analytic method to estimate and remove the effects of this noise, adding only a single, intuitive parameter to the calculation of the Matrix Profile. This paper explains our method and demonstrates it by performing discord discovery on the Numenta Anomaly Benchmark and by segmenting the PAMAP2 activity dataset. We find that our technique results in a more intuitive Matrix Profile and provides improved results in both usecases for series containing many flat, noisy subsequences. Since our technique is an extension of the Matrix Profile, it can be applied to any of the various tasks that could be solved by it, improving results where data contains flat and noisy sequences
 fulltext:
   https://biblio.ugent.be/publication/8605188/file/8605190.pdf
+preprint:
+  Eliminating_Noise_in_the_Matrix_Profile.pdf
 ---
 
 @inproceedings{depaepe_icpram_2019,

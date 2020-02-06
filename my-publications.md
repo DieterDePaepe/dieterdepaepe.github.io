@@ -31,6 +31,9 @@
 	  {% if publication.presentation %}
 	    <a href="{{ publication.presentation }}" target="_blank">Presentation</a>
 	  {% endif %}
+	  {% if publication.preprint %}
+	    <a href="/files/publications/{{ publication.preprint | escape }}" target="_blank">Preprint</a>
+	  {% endif %}
 	</div>
 	
   </section>

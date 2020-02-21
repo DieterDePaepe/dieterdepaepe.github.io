@@ -1,0 +1,27 @@
+---
+title: >
+  A Dynamic Dashboarding Application for Fleet Monitoring Using Semantic Web of Things Technologies
+key: vandenhautte_dynamic_dashboard_2020
+authors: Sander Vanden Hautte, Pieter Moens, Joachm Van Herwegen, Dieter De Paepe, Bram Steenwinckel, Stijn Verstichel, Femke Ongenae and Sofie Van Hoecke
+year: 2020
+publisherartefact: >
+  Sensors
+abstract: >
+  In industry, dashboards are often used to monitor fleets of assets, such as trains, machines or buildings. In such industrial fleets, the vast amount of sensors evolves continuously, new sensor data exchange protocols and data formats are introduced, new visualization types may need to be introduced and existing dashboard visualizations may need to be updated in terms of displayed sensors. These requirements motivate the development of dynamic dashboarding applications. These, as opposed to fixed-structure dashboard applications, allow users to create visualizations at will and do not have hard-coded sensor bindings. The state-of-the-art in dynamic dashboarding does not cope well with the frequent additions and removals of sensors that must be monitored&mdash;these changes must still be configured in the implementation or at runtime by a user. Also, the user is presented with an overload of sensors, aggregations and visualizations to select from, which may sometimes even lead to the creation of dashboard widgets that do not make sense. In this paper, we present a dynamic dashboard that overcomes these problems. Sensors, visualizations and aggregations can be discovered automatically, since they are provided as RESTful Web Things on a Web Thing Model compliant gateway. The gateway also provides semantic annotations of the Web Things, describing what their abilities are. A semantic reasoner can derive visualization suggestions, given the Thing annotations, logic rules and a custom dashboard ontology. The resulting dashboarding application automatically presents the available sensors, visualizations and aggregations that can be used, without requiring sensor configuration, and assists the user in building dashboards that make sense. This way, the user can concentrate on interpreting the sensor data and detecting and solving operational problems early.
+fulltext:
+  https://doi.org/10.3390/s20041152
+---
+
+
+@Article{vandenhautte_dynamic_dashboard_2020,
+AUTHOR = {Vanden Hautte, Sander and Moens, Pieter and Van Herwegen, Joachim and De Paepe, Dieter and Steenwinckel, Bram and Verstichel, Stijn and Ongenae, Femke and Van Hoecke, Sofie},
+TITLE = {A Dynamic Dashboarding Application for Fleet Monitoring Using Semantic Web of Things Technologies},
+JOURNAL = {Sensors},
+VOLUME = {20},
+YEAR = {2020},
+NUMBER = {4},
+ARTICLE-NUMBER = {1152},
+URL = {https://www.mdpi.com/1424-8220/20/4/1152},
+ISSN = {1424-8220},
+DOI = {10.3390/s20041152}
+}

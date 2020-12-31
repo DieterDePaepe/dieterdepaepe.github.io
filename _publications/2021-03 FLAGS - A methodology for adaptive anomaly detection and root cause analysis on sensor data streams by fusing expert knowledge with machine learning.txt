@@ -1,0 +1,26 @@
+---
+title: >
+  FLAGS: A methodology for adaptive anomaly detection and root cause analysis on sensor data streams by fusing expert knowledge with machine learning
+key: steenwinckel_2021
+authors: Bram Steenwinckel, Dieter De Paepe, Sander Vanden Hautte, Pieter Heyvaert, Mohamed Bentefrit, Pieter Moens, Anastasia Dimoua, Bruno Van Den Bossche, Filip De Turck, Sofie Van Hoecke and Femke Ongenae
+year: 2021
+publisherartefact: >
+  Future Generation Computer Systems
+abstract: >
+  Anomalies and faults can be detected, and their causes verified, using both data-driven and knowledge-driven techniques. Data-driven techniques can adapt their internal functioning based on the raw input data but fail to explain the manifestation of any detection. Knowledge-driven techniques inherently deliver the cause of the faults that were detected but require too much human effort to set up. In this paper, we introduce FLAGS, the Fused-AI interpretabLe Anomaly Generation System, and combine both techniques in one methodology to overcome their limitations and optimize them based on limited user feedback. Semantic knowledge is incorporated in a machine learning technique to enhance expressivity. At the same time, feedback about the faults and anomalies that occurred is provided as input to increase adaptiveness using semantic rule mining methods. This new methodology is evaluated on a predictive maintenance case for trains. We show that our method reduces their downtime and provides more insight into frequently occurring problems.
+fulltext:
+  https://doi.org/10.1016/j.future.2020.10.015
+---
+
+@article{steenwinckel_2021,
+title = "FLAGS: A methodology for adaptive anomaly detection and root cause analysis on sensor data streams by fusing expert knowledge with machine learning",
+journal = "Future Generation Computer Systems",
+volume = "116",
+pages = "30 - 48",
+year = "2021",
+issn = "0167-739X",
+doi = "https://doi.org/10.1016/j.future.2020.10.015",
+url = "http://www.sciencedirect.com/science/article/pii/S0167739X20329927",
+author = "Bram Steenwinckel and Dieter {De Paepe} and Sander {Vanden Hautte} and Pieter Heyvaert and Mohamed Bentefrit and Pieter Moens and Anastasia Dimou and Bruno {Van Den Bossche} and Filip {De Turck} and Sofie {Van Hoecke} and Femke Ongenae",
+keywords = "Anomaly detection, Root cause analysis, Machine learning, Semantic web, Internet of Things, Fused AI, User feedback",
+}

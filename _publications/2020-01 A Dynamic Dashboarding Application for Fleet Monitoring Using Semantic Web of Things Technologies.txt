@@ -2,7 +2,7 @@
 title: >
   A Dynamic Dashboarding Application for Fleet Monitoring Using Semantic Web of Things Technologies
 key: vandenhautte_dynamic_dashboard_2020
-authors: Sander Vanden Hautte, Pieter Moens, Joachm Van Herwegen, Dieter De Paepe, Bram Steenwinckel, Stijn Verstichel, Femke Ongenae and Sofie Van Hoecke
+authors: Sander Vanden Hautte, Pieter Moens, Joachim Van Herwegen, Dieter De Paepe, Bram Steenwinckel, Stijn Verstichel, Femke Ongenae and Sofie Van Hoecke
 year: 2020
 publisherartefact: >
   Sensors

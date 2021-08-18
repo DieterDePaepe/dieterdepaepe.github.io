@@ -1,0 +1,22 @@
+---
+title: >
+  Insight Mining in Time Series Data with Applications for Anomaly Detection
+key: depaepe_phd_2020
+authors: Dieter De Paepe
+year: 2021
+publisherartefact: >
+  PhD Thesis
+fulltext: >
+  /files/publications/Insight_mining_in_time_series_data_with_applications_for_anomaly_detection.pdf
+presentation: >
+  /files/publications/Mining_Recurring_Patterns_in_Real_Valued_Time_Series_Presentation.pdf
+---
+
+@phdthesis{depaepe_phd_2021,
+  title    = {Insight Mining in Time Series Data with Applications for Anomaly Detection},
+  school   = {Ghent University},
+  author   = {De Paepe, Dieter},
+  year     = 2021,
+  month    = jun,
+  address  = {Ghent, Belgium}
+}

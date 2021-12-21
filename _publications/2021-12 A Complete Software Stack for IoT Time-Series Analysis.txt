@@ -1,0 +1,26 @@
+---
+title: >
+  A Complete Software Stack for IoT Time-Series Analysis that Combines Semantics and Machine Learning—Lessons Learned from the Dyversify Project
+key: depaepe_stack_2021
+authors: Dieter De Paepe, Sander Vanden Hautte, Bram Steenwinckel, Pieter Moens, Jasper Vaneessen, Steven Vandekerckhove, Bruno Volckaert, Femke Ongenae and Sofie Van Hoecke
+year: 2021
+publisherartefact: >
+  Applied Science - Special Issue: Innovations in Intelligent Machinery and Industry 4.0
+abstract: >
+  Companies are increasingly gathering and analyzing time-series data, driven by the rising number of IoT devices. Many works in literature describe analysis systems built using either data-driven or semantic (knowledge-driven) techniques. However, little to no works describe hybrid combinations of these two. Dyversify, a collaborative project between industry and academia, investigated how event and anomaly detection can be performed on time-series data in such a hybrid setting. We built a proof-of-concept analysis platform, using a microservice architecture to ensure scalability and fault-tolerance. The platform comprises time-series ingestion, long term storage, data semantification, event detection using data-driven and semantic techniques, dynamic visualization, and user feedback. In this work, we describe the system architecture of this hybrid analysis platform and give an overview of the different components and their interactions. As such, the main contribution of this work is an experience report with challenges faced and lessons learned.
+fulltext: >
+  https://doi.org/10.3390/app112411932
+---
+
+@Article{app112411932,
+author = {De Paepe, Dieter and Vanden Hautte, Sander and Steenwinckel, Bram and Moens, Pieter and Vaneessen, Jasper and Vandekerckhove, Steven and Volckaert, Bruno and Ongenae, Femke and Van Hoecke, Sofie},
+title = {A Complete Software Stack for IoT Time-Series Analysis that Combines Semantics and Machine Learning&mdash;Lessons Learned from the Dyversify Project},
+journal = {Applied Sciences},
+volume = {11},
+year = {2021},
+number = {24},
+article-number = {11932},
+url = {https://www.mdpi.com/2076-3417/11/24/11932},
+issn = {2076-3417},
+doi = {10.3390/app112411932}
+}

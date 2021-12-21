@@ -1,0 +1,26 @@
+---
+title: >
+  Event-Driven Dashboarding and Feedback for Improved Event Detection in Predictive Maintenance Applications
+key: moens_dashboarding_2021
+authors: Pieter Moens, Sander Vanden Hautte, Dieter De Paepe, Bram Steenwinckel, Stijn Verstichel, Steven Vandekerckhove, Femke Ongenae and Sofie Van Hoecke
+year: 2021
+publisherartefact: >
+  Applied Science - Special Issue: Overcoming the Obstacles to Predictive Maintenance
+abstract: >
+  Manufacturers can plan predictive maintenance by remotely monitoring their assets. However, to extract the necessary insights from monitoring data, they often lack sufficiently large datasets that are labeled by human experts. We suggest combining knowledge-driven and unsupervised data-driven approaches to tackle this issue. Additionally, we present a dynamic dashboard that automatically visualizes detected events using semantic reasoning, assisting experts in the revision and correction of event labels. Captured label corrections are immediately fed back to the adaptive event detectors, improving their performance. To the best of our knowledge, we are the first to demonstrate the synergy of knowledge-driven detectors, data-driven detectors and automatic dashboards capturing feedback. This synergy allows a transition from detecting only unlabeled events, such as anomalies, at the start to detecting labeled events, such as faults, with meaningful descriptions. We demonstrate all work using a ventilation unit monitoring use case. This approach enables manufacturers to collect labeled data for refining event classification techniques with reduced human labeling effort.
+fulltext: >
+  https://doi.org/10.3390/app112110371
+---
+
+@Article{app112110371,
+author = {Moens, Pieter and Vanden Hautte, Sander and De Paepe, Dieter and Steenwinckel, Bram and Verstichel, Stijn and Vandekerckhove, Steven and Ongenae, Femke and Van Hoecke, Sofie},
+title = {Event-Driven Dashboarding and Feedback for Improved Event Detection in Predictive Maintenance Applications},
+journal = {Applied Sciences},
+volume = {11},
+year = {2021},
+number = {21},
+article-number = {10371},
+url = {https://www.mdpi.com/2076-3417/11/21/10371},
+issn = {2076-3417},
+doi = {10.3390/app112110371}
+}

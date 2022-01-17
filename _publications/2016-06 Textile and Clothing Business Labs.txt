@@ -13,10 +13,10 @@ fulltext: >
 ---
 
 @inproceedings{depaepe_eswc_pn_2016,
-  author = {De Paepe, Dieter and Maschler, Tobias and Wild, Fridolin and Ferro, Erico and Marsh, Jesse and Verborgh, Ruben and Mannens, Erik and Van de Walle, Rik},
+  author    = {De Paepe, Dieter and Maschler, Tobias and Wild, Fridolin and Ferro, Erico and Marsh, Jesse and Verborgh, Ruben and Mannens, Erik and Van de Walle, Rik},
   booktitle = {Proceedings of the 13th Extended Semantic Web Conference: Project Networking},
-  title = {Textile and Clothing Business Labs},
-  year = 2016,
-  month = jun,
-  url = {http://2016.eswc-conferences.org/sites/default/files/papers/EU-Project-Networking-Session/Textile%20and%20Clothing%20Business%20Labs.pdf},
+  title     = {Textile and Clothing Business Labs},
+  year      = 2016,
+  month     = jun,
+  url       = {http://2016.eswc-conferences.org/sites/default/files/papers/EU-Project-Networking-Session/Textile%20and%20Clothing%20Business%20Labs.pdf},
 }

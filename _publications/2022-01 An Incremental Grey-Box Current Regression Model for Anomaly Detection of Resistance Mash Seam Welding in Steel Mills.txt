@@ -12,7 +12,7 @@ fulltext: >
   https://doi.org/10.3390/app12020913
 ---
 
-@Article{depaepe_seam_welding_2022,
+@article{depaepe_seam_welding_2022,
   author         = {De Paepe, Dieter and Van Yperen-De Deyne, Andy and Defever, Jan and Van Hoecke, Sofie},
   title          = {An Incremental Grey-Box Current Regression Model for Anomaly Detection of Resistance Mash Seam Welding in Steel Mills},
   journal        = {Applied Sciences},

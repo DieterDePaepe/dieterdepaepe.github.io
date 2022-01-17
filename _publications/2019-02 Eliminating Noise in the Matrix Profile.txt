@@ -15,15 +15,15 @@ preprint:
 ---
 
 @inproceedings{depaepe_icpram_2019,
-  title={Eliminating Noise in the Matrix Profile},
-  author={De Paepe, Dieter and Janssens, Olivier and Van Hoecke, Sofie},
-  booktitle={Proceedings of the 8th International Conference on Pattern Recognition Applications and Methods - Volume 1: ICPRAM,},
-  pages={83-93},
-  year={2019},
-  month={feb},
-  publisher={SciTePress},
-  organization={INSTICC},
-  doi={10.5220/0007314100830093},
-  isbn={978-989-758-351-3},
-  issn={2184-4313}
+  title        = {Eliminating Noise in the Matrix Profile},
+  author       = {De Paepe, Dieter and Janssens, Olivier and Van Hoecke, Sofie},
+  booktitle    = {Proceedings of the 8th International Conference on Pattern Recognition Applications and Methods - Volume 1: ICPRAM,},
+  pages        = {83-93},
+  year         = {2019},
+  month        = {feb},
+  publisher    = {SciTePress},
+  organization = {INSTICC},
+  doi          = {10.5220/0007314100830093},
+  isbn         = {978-989-758-351-3},
+  issn         = {2184-4313}
 }

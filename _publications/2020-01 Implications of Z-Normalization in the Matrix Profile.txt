@@ -15,18 +15,14 @@ preprint:
 ---
 
 @InProceedings{depaepe_znorm_2020,
-author="De Paepe, Dieter
-and Avendano, Diego Nieves
-and Van Hoecke, Sofie",
-editor="De Marsico, Maria
-and Sanniti di Baja, Gabriella
-and Fred, Ana",
-title="Implications of Z-Normalization in the Matrix Profile",
-booktitle="Pattern Recognition Applications and Methods",
-year="2020",
-publisher="Springer International Publishing",
-address="Cham",
-pages="95--118",
-doi="https://doi.org/10.1007/978-3-030-40014-9_5",
-isbn="978-3-030-40014-9"
+  author    = "De Paepe, Dieter and Avendano, Diego Nieves and Van Hoecke, Sofie",
+  editor    = "De Marsico, Maria and Sanniti di Baja, Gabriella and Fred, Ana",
+  title     = "Implications of Z-Normalization in the Matrix Profile",
+  booktitle = "Pattern Recognition Applications and Methods",
+  year      = "2020",
+  publisher = "Springer International Publishing",
+  address   = "Cham",
+  pages     = "95--118",
+  doi       = "https://doi.org/10.1007/978-3-030-40014-9_5",
+  isbn      = "978-3-030-40014-9"
 }

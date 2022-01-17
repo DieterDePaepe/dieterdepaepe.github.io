@@ -12,15 +12,15 @@ fulltext: >
   https://doi.org/10.3390/app112110371
 ---
 
-@Article{app112110371,
-author = {Moens, Pieter and Vanden Hautte, Sander and De Paepe, Dieter and Steenwinckel, Bram and Verstichel, Stijn and Vandekerckhove, Steven and Ongenae, Femke and Van Hoecke, Sofie},
-title = {Event-Driven Dashboarding and Feedback for Improved Event Detection in Predictive Maintenance Applications},
-journal = {Applied Sciences},
-volume = {11},
-year = {2021},
-number = {21},
-article-number = {10371},
-url = {https://www.mdpi.com/2076-3417/11/21/10371},
-issn = {2076-3417},
-doi = {10.3390/app112110371}
+@article{moens_dashboarding_2021,
+  author         = {Moens, Pieter and Vanden Hautte, Sander and De Paepe, Dieter and Steenwinckel, Bram and Verstichel, Stijn and Vandekerckhove, Steven and Ongenae, Femke and Van Hoecke, Sofie},
+  title          = {Event-Driven Dashboarding and Feedback for Improved Event Detection in Predictive Maintenance Applications},
+  journal        = {Applied Sciences},
+  volume         = {11},
+  year           = {2021},
+  number         = {21},
+  article-number = {10371},
+  url            = {https://www.mdpi.com/2076-3417/11/21/10371},
+  issn           = {2076-3417},
+  doi            = {10.3390/app112110371}
 }

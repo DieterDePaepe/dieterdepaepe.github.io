@@ -13,15 +13,15 @@ fulltext:
 ---
 
 
-@Article{vandenhautte_dynamic_dashboard_2020,
-AUTHOR = {Vanden Hautte, Sander and Moens, Pieter and Van Herwegen, Joachim and De Paepe, Dieter and Steenwinckel, Bram and Verstichel, Stijn and Ongenae, Femke and Van Hoecke, Sofie},
-TITLE = {A Dynamic Dashboarding Application for Fleet Monitoring Using Semantic Web of Things Technologies},
-JOURNAL = {Sensors},
-VOLUME = {20},
-YEAR = {2020},
-NUMBER = {4},
-ARTICLE-NUMBER = {1152},
-URL = {https://www.mdpi.com/1424-8220/20/4/1152},
-ISSN = {1424-8220},
-DOI = {10.3390/s20041152}
+@article{vandenhautte_dynamic_dashboard_2020,
+  author         = {Vanden Hautte, Sander and Moens, Pieter and Van Herwegen, Joachim and De Paepe, Dieter and Steenwinckel, Bram and Verstichel, Stijn and Ongenae, Femke and Van Hoecke, Sofie},
+  title          = {A Dynamic Dashboarding Application for Fleet Monitoring Using Semantic Web of Things Technologies},
+  journal        = {Sensors},
+  volume         = {20},
+  year           = {2020},
+  number         = {4},
+  article-number = {1152},
+  url            = {https://www.mdpi.com/1424-8220/20/4/1152},
+  issn           = {1424-8220},
+  doi            = {10.3390/s20041152}
 }

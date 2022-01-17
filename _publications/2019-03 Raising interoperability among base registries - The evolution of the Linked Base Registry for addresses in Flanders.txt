@@ -13,13 +13,13 @@ fulltext:
 ---
 
 @article{buyle_semantics_2018,
-title = "Raising interoperability among base registries: The evolution of the Linked Base Registry for addresses in Flanders",
-journal = "Journal of Web Semantics",
-volume = "55",
-pages = "86 - 101",
-year = "2019",
-issn = "1570-8268",
-doi = "https://doi.org/10.1016/j.websem.2018.10.003",
-url = "http://www.sciencedirect.com/science/article/pii/S1570826818300519",
-author = {Buyle, Raf and Vanlishout, Ziggy and Coetzee, Serena and De Paepe, Dieter and Van Compernolle, Mathias and Thijs, Geert and Van Nuffelen, Bert and De Vocht, Laurens and Mechant, Peter and De Vidts, Bjorn and Mannens, Erik},
+  title   = "Raising interoperability among base registries: The evolution of the Linked Base Registry for addresses in Flanders",
+  journal = "Journal of Web Semantics",
+  volume  = "55",
+  pages   = "86 - 101",
+  year    = "2019",
+  issn    = "1570-8268",
+  doi     = "https://doi.org/10.1016/j.websem.2018.10.003",
+  url     = "http://www.sciencedirect.com/science/article/pii/S1570826818300519",
+  author  = {Buyle, Raf and Vanlishout, Ziggy and Coetzee, Serena and De Paepe, Dieter and Van Compernolle, Mathias and Thijs, Geert and Van Nuffelen, Bert and De Vocht, Laurens and Mechant, Peter and De Vidts, Bjorn and Mannens, Erik},
 }

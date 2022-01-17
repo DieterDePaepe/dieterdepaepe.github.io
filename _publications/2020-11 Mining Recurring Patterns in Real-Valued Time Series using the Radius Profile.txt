@@ -14,12 +14,12 @@ preprint:
   Mining_Recurring_Patterns_in_Real_Valued_Time_Series.pdf
 ---
 
-@INPROCEEDINGS{depaepe_radius_2020,
-  author={De Paepe, Dieter and Van Hoecke, Sofie},
-  booktitle={Proceedings of the 20th International Conference on Data Mining (ICDM)}, 
-  title={Mining Recurring Patterns in Real-Valued Time Series using the Radius Profile}, 
-  year={2020},
-  publisher={IEEE},
-  pages={984-989},
-  doi={10.1109/ICDM50108.2020.00113}
+@inproceedings{depaepe_radius_2020,
+  author    = {De Paepe, Dieter and Van Hoecke, Sofie},
+  booktitle = {Proceedings of the 20th International Conference on Data Mining (ICDM)}, 
+  title     = {Mining Recurring Patterns in Real-Valued Time Series using the Radius Profile}, 
+  year      = {2020},
+  publisher = {IEEE},
+  pages     = {984-989},
+  doi       = {10.1109/ICDM50108.2020.00113}
 }

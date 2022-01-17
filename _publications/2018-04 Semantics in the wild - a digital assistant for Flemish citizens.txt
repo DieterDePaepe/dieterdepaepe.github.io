@@ -14,7 +14,7 @@ fulltext:
 
 @inproceedings{BuyleICEGOV_2018,
   author       = {Buyle, Raf and Van Compernolle, Mathias and De Paepe, Dieter and Scheerlinck, Jens and Mechant, Peter and Mannens, Erik and Vanlishout, Ziggy},
-  booktitle = {Proceedings of the 11th International Conference on Theory and Practice of Electronic Governance},
+  booktitle    = {Proceedings of the 11th International Conference on Theory and Practice of Electronic Governance},
   isbn         = {9781450354219},
   language     = {eng},
   location     = {Galway, Iceland},

@@ -12,14 +12,14 @@ fulltext: >
 ---
 
 @inproceedings{depaepe_iswc_poster_2016,
-  author = {De Paepe, Dieter and Verborgh, Ruben and Mannens, Erik},
-  title = {Rule-Based Reasoning using State Space Search},
+  author    = {De Paepe, Dieter and Verborgh, Ruben and Mannens, Erik},
+  title     = {Rule-Based Reasoning using State Space Search},
   booktitle = {Proceedings of the 15th International Semantic Web Conference: Posters and Demos},
-  year = 2016,
-  month = oct,
-  series = {CEUR Workshop Proceedings},
-  volume = 1690,
-  issn = {1613-0073},
-  editor = {Kawamura, Takahiro and Paulheim, Heiko},
-  url = {http://ceur-ws.org/Vol-1690/paper55.pdf},
+  year      = 2016,
+  month     = oct,
+  series    = {CEUR Workshop Proceedings},
+  volume    = 1690,
+  issn      = {1613-0073},
+  editor    = {Kawamura, Takahiro and Paulheim, Heiko},
+  url       = {http://ceur-ws.org/Vol-1690/paper55.pdf},
 }

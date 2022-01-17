@@ -12,15 +12,15 @@ fulltext: >
   https://doi.org/10.3390/app112411932
 ---
 
-@Article{app112411932,
-author = {De Paepe, Dieter and Vanden Hautte, Sander and Steenwinckel, Bram and Moens, Pieter and Vaneessen, Jasper and Vandekerckhove, Steven and Volckaert, Bruno and Ongenae, Femke and Van Hoecke, Sofie},
-title = {A Complete Software Stack for IoT Time-Series Analysis that Combines Semantics and Machine Learning&mdash;Lessons Learned from the Dyversify Project},
-journal = {Applied Sciences},
-volume = {11},
-year = {2021},
-number = {24},
-article-number = {11932},
-url = {https://www.mdpi.com/2076-3417/11/24/11932},
-issn = {2076-3417},
-doi = {10.3390/app112411932}
+@article{depaepe_stack_2021,
+  author         = {De Paepe, Dieter and Vanden Hautte, Sander and Steenwinckel, Bram and Moens, Pieter and Vaneessen, Jasper and Vandekerckhove, Steven and Volckaert, Bruno and Ongenae, Femke and Van Hoecke, Sofie},
+  title          = {A Complete Software Stack for IoT Time-Series Analysis that Combines Semantics and Machine Learning&mdash;Lessons Learned from the Dyversify Project},
+  journal        = {Applied Sciences},
+  volume         = {11},
+  year           = {2021},
+  number         = {24},
+  article-number = {11932},
+  url            = {https://www.mdpi.com/2076-3417/11/24/11932},
+  issn           = {2076-3417},
+  doi            = {10.3390/app112411932}
 }

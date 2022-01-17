@@ -13,10 +13,10 @@ fulltext:
 ---
 
 @inproceedings{colpaert_its_2017,
-  author = {Colpaert, Pieter and Van der Perre, Peter and De Paepe, Dieter and Thoeye, Thimo and Verborgh, Ruben and Mannens, Erik},
-  title = {Constraints for a large-scale ITS data-sharing system: a use case in the city of Ghent},
+  author    = {Colpaert, Pieter and Van der Perre, Peter and De Paepe, Dieter and Thoeye, Thimo and Verborgh, Ruben and Mannens, Erik},
+  title     = {Constraints for a large-scale ITS data-sharing system: a use case in the city of Ghent},
   booktitle = {Proceedings of the 12th ITS European Congress},
-  year = 2017,
-  month = jun,
-  url = {https://pietercolpaert.be/papers/its-eu2017/paper.pdf},
+  year      = 2017,
+  month     = jun,
+  url       = {https://pietercolpaert.be/papers/its-eu2017/paper.pdf},
 }

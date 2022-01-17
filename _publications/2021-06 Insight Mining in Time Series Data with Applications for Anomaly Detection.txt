@@ -8,6 +8,8 @@ publisherartefact: >
   PhD Thesis
 presentation: >
   /files/publications/Insight_mining_in_time_series_data_with_applications_for_anomaly_detection_Presentation.pdf
+fulltext: >
+  /files/publications/Insight_mining_in_time_series_data_with_applications_for_anomaly_detection.pdf
 ---
 
 @phdthesis{depaepe_phd_2021,

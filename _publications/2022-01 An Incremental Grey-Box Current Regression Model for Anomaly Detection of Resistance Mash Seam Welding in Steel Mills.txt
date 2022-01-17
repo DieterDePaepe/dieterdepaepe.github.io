@@ -1,0 +1,26 @@
+---
+title: >
+  An Incremental Grey-Box Current Regression Model for Anomaly Detection of Resistance Mash Seam Welding in Steel Mills
+key: depaepe_seam_welding_2022
+authors: Dieter De Paepe, Andy Van Yperen-De Deyne, Jan Defever and Sofie Van Hoecke
+year: 2022
+publisherartefact: >
+  Applied Science - Special Issue: Applications of Artificial Intelligence Systems
+abstract: >
+  Annealing and galvanization production lines in steel mills run continuously to maximize production throughput. As a part of this process, individual steel coils are joined end-to-end using mash seam welding. Weld breaks result in a production loss of multiple days, so non-destructive, data-driven techniques are used to detect and replace poor quality welds in real-time. Statistical models are commonly used to address this problem as they use data readily available from the welding machine and require no specialized equipment. While successful in finding anomalies, these statistical models do not provide insight into the underlying process and are slow to adapt to changes in the machine’s or material’s behavior. We combine knowledge-based and data-driven techniques to create an incremental grey-box welding current prediction model for detecting anomalous welds, resulting in a powerful and interpretable model. In this work, we detail our approach and show evaluation results on industrial welding data collected over a period of 15 months containing behavioral shifts attributed to machine maintenance. Due to its incremental nature, our model resulted in two-thirds fewer rejected welds compared to statistical models, thus greatly reducing production overhead. Grey-box modeling can be applied to other welding features or domains and results in models that are more desirable for the industry.
+fulltext: >
+  https://doi.org/10.3390/app12020913
+---
+
+@Article{depaepe_seam_welding_2022,
+  author         = {De Paepe, Dieter and Van Yperen-De Deyne, Andy and Defever, Jan and Van Hoecke, Sofie},
+  title          = {An Incremental Grey-Box Current Regression Model for Anomaly Detection of Resistance Mash Seam Welding in Steel Mills},
+  journal        = {Applied Sciences},
+  volume         = {12},
+  year           = {2022},
+  number         = {2},
+  article-number = {913},
+  url            = {https://www.mdpi.com/2076-3417/12/2/913},
+  issn           = {2076-3417},
+  doi            = {10.3390/app12020913}
+}
